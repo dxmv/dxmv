@@ -24,5 +24,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://dimitrijestepanovic.com)  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dxmv&color=blue)
 
