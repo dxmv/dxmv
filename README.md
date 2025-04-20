@@ -1,5 +1,4 @@
 ## Hi there, my name is Dimitrije Stepanović 👋
----
 ## About Me 
 - Computer science student at RAF (Belgrade, Serbia)
 - Full stack developer
